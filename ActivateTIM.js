@@ -40,7 +40,6 @@ function TIM_ReportTIMActivate(c, timDate, timTime, timTransportPin ) {
     x = x.concat (new TLV(0xCE, new ByteString(timTime, HEX), TLV.EMV).getTLV());
     x = x.concat (new TLV(0xC3, new ByteString(timTransportPin, ASCII), TLV.EMV).getTLV());
     print ("reportReq         : ", x.toBase64(true).toString(ASCII));	
-	
     resp = c.sendApdu(0x80,0x42,0x04,0x00,x,0,[0x9000]);
     RespTLV = new TLVList (resp, TLV.EMV);
     print ("reportResp        : ", RespTLV.toByteString().toBase64(true).toString(ASCII));
