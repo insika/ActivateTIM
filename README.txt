@@ -49,7 +49,7 @@ LifeCycle        :  TIM_PERSONALISED
 
 
 Now a new window opens "TIM Activate: Enter Transport PIN".
-Enter the Transport PIN.
+Enter the 6 digits of the Transport PIN.
 
 
 ***** Report TIM Activate *****
