@@ -61,7 +61,9 @@ Writing 20120918151823
 LifeCycle        :  TIM_ACTIVATED
 >
 
+
 Please keep the log file named e.g. "20120918151823" which you'll find in your workspace directory.
 
 The INSIKA smart card has been activated. 
+
 
