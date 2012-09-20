@@ -1,4 +1,4 @@
-README File for the ActivateTIM Script
+ActivateTIM Script
 
 This script allows you to activate your INSIKA smart card. It is written for the [SmartCardShell3](http://www.openscdp.org/scsh3/).
 
