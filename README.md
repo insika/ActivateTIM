@@ -9,4 +9,4 @@ Start the SmartCardShell3.
 
 Load the ActivateTIM.js script, enter the Transport PIN and activate the INSIKA smart card.
 
-Please have a look at the README file for a detailed description.
+Please have a look at the included [README](https://github.com/insika/ActivateTIM/blob/master/README) file for a detailed description.
