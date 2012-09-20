@@ -7,6 +7,6 @@ Unzip and run the Windows installer or unzip the ZIP archive to a destination of
 
 Start the SmartCardShell3.
 
-Load the ActivateTIM.js script, enter the Transport PIN and activate the INSIKA smart card.
+Insert the INSIKA smart card into the reader and load the ActivateTIM.js script. A dialog window opens and you are asked to enter the Transport PIN. Then the INSIKA smart card will be activated.
 
-Please have a look at the included [README](https://github.com/insika/ActivateTIM/blob/master/README) file for a detailed description.
+For a detailed description please have a look at the included [README](https://github.com/insika/ActivateTIM/blob/master/README) file.
